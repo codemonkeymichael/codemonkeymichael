@@ -1,3 +1,3 @@
 Hi, I’m @codemonkeymichael   
 
-I work at Schilling Robtics in Davis California. We make under sea robots, so cool. I work in C# on the ERP and wearhousing extention software.
+I work at <a href="https://www.technipfmc.com/en/what-we-do/subsea/robotics/">Schilling Robtics</a> in Davis California. We make under sea remote control robots, so cool. I work in C# on the ERP and wearhousing extention software. Im also a director at the <a hewf="https://heartstoppershaunt.com/">Heartstopper Hauted House</a> in Rancho Cordova California. 
